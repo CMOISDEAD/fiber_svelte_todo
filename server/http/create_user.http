@@ -1,0 +1,7 @@
+POST http://127.0.0.1:8080/create
+
+{
+  "title": "Learn go",
+  "description": "Learn go to be a better programmer?",
+  "completed": true,
+}
